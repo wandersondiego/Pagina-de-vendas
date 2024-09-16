@@ -83,7 +83,7 @@ p {
     width: 100%;
     max-width: 1200px; /* Largura máxima do contêiner */
     height: auto;
-    border-radius: 5px; /* Bordas arredondadas opcionais */
+    border-radius: 10px; /* Bordas arredondadas opcionais */
     overflow: hidden; /* Garante que nada ultrapasse as bordas arredondadas */
     background-color: #ffffff;
 }
